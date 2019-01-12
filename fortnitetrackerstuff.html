@@ -1,0 +1,19 @@
+<!doctype html>
+<!-- handmade is green, sturdy is blue, quality is purple, fine is gold. for some reason it doesn't show emotes -->
+<html>
+	<head>
+		<title>$(name) | $(rarity)</title>
+		<style>
+			h3 {font-size:5vw; font-family:"Sans-serif"; text-align:center}
+			h4 {font:"Sans-serif"; font-size:1vw; text-align:center}
+			h5 {font:"Sans-serif"; font-size:1vw; text-align:center}
+			h5.rarity {color: $(rarity-color); text-align:center}
+		</style>
+	</head>
+	<body>
+		<h3>$(name)</h3>
+		<br>
+		<img src="$(imageUrl)" width=500px height=500px>
+		<br>
+		<h5>Rarity: </h5> <h5 class="rarity">$(rarity)</h5>
+		<h4>
