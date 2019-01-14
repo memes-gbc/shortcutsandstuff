@@ -1,8 +1,9 @@
 {	
 	"popsiclestickgods":{
-		"version":"1.6",
-		"release notes":"moved update stuff to github",
-		"url":"https:\/\/www.icloud.com\/shortcuts\/e894cf9e34634824967efa1e62eb1c09"
+		"version":"1.65",
+		"release notes":"added new global announcement feature, also you need to install this update for anything to work due to me moving something that is crucial to operation",
+		"url":"https:\/\/www.icloud.com\/shortcuts\/e894cf9e34634824967efa1e62eb1c09",
+		"forced":"true",
 	}
 }
 
