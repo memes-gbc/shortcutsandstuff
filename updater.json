@@ -1,8 +1,8 @@
 {	
 	"popsiclestickgods":{
 		"version":"1.65",
-		"release notes":"added new global announcement feature, also you need to install this update for anything to work due to me moving something that is crucial to operation",
-		"url":"https:\/\/www.icloud.com\/shortcuts\/e894cf9e34634824967efa1e62eb1c09",
+		"release notes":"THIS UPDATE MUST BE INSTALLED OR ELSE THE SHORTCUT WILL NOT WORK!!! some new things: the shortcut will not call out someone who has already been called, new announcement system",
+		"url":"https:\/\/www.icloud.com\/shortcuts\/485d20c86b074eeb9e0728f33fbf74ec",
 		"forced":"true",
 	}
 }
