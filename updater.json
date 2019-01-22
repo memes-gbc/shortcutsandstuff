@@ -6,8 +6,10 @@
 		"forced":"true",
 	}
 	"shoppinglist":{
-		"version":"0.95"
-		"release notes":"first version"
-		"url":"
+		"version":"0.95",
+		"release notes":"first version",
+		"url":"https:\/\/www.icloud.com\/shortcuts\/0aecb9c862914fcd8a21a46536802880",
+		"forced":"false",
+	}
 }
 
