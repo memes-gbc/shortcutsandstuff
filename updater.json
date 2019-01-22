@@ -4,6 +4,12 @@
 		"release notes":"THIS UPDATE MUST BE INSTALLED OR ELSE THE SHORTCUT WILL NOT WORK!!! some new things: the shortcut will not call out someone who has already been called, new announcement system",
 		"url":"https:\/\/www.icloud.com\/shortcuts\/74af0a1bd62d4cf18930de5d660ac2d4",
 		"forced":"true",
+	},
+	"shoppinglist":{
+		"version":"0.95",
+		"release notes":"first version",
+		"url":"https:\/\/www.icloud.com\/shortcuts\/0aecb9c862914fcd8a21a46536802880",
+		"forced":"false",
 	}
 }
 
