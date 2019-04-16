@@ -16,5 +16,11 @@
 		"release notes":"first version",
 		"url":"https:\/\/www.icloud.com\/shortcuts\/b0909e28000546958edaa36c0341aa20",
 	},
+        “gamblingpreferences”:{
+                “version”:”1.0”,
+                “release notes”:”first version”,
+                “url”:””,
+                “forced”:”false”,
+        },
 }
 
