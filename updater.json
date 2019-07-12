@@ -12,9 +12,9 @@
 		"forced":"false",
 	},
 	"annoyance":{
-		"version":"1.1",
-		"release notes":"first version",
-		"url":"https:\/\/www.icloud.com\/shortcuts\/b0909e28000546958edaa36c0341aa20",
+		"version":"1.2",
+		"release notes":"fixed application quitter, minor bug fixes",
+		"url":"https:\/\/www.icloud.com\/shortcuts\/45f0c47f3dd549d8b7bd81c14a166e07",
 	},
         "gamblingpreferences":{
                 "version":"1.1",
