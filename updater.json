@@ -22,4 +22,10 @@
                 "url":"https:\/\/www.icloud.com\/shortcuts\/5ba4bcf261e34ab691aeafc6dab54db0",
                 "forced":"false",
         },
-}
+	"logger":{
+		"version":"0.9",
+		"release notes":"first version",
+		"url":"",
+		"forced":"false",
+	},
+}	
