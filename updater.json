@@ -28,4 +28,10 @@
 		"url":"",
 		"forced":"false",
 	},
+	"addtoxmaslist":{
+		"version":"0.9",
+		"release notes":"first version",
+		"url":"",
+		"forced":"false",
+	},
 }	
