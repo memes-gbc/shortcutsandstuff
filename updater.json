@@ -29,9 +29,9 @@
 		"forced":"false",
 	},
 	"addtoxmaslist":{
-		"version":"0.9",
-		"release notes":"first version",
-		"url":"https://www.icloud.com/shortcuts/c5ff64b9a1d84c838b090d9f690d74b1",
+		"version":"0.95",
+		"release notes":"fixes no url specified when passing url through share",
+		"url":"https:\/\/www.icloud.com\/shortcuts\/5ec02472568e41a4bca1265f10242141",
 		"forced":"false",
 	},
 }	
